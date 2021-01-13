@@ -1,2 +1,2 @@
 # os-tutorial
-step by step instructions for developing a simple operating system
+## step by step tutorial for develping an operating system
