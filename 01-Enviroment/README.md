@@ -27,3 +27,6 @@ brew install qemu
 ```
 ##### Install with Windows
 download this [setup file](https://qemu.weilnetz.de/w64/qemu-w64-setup-20201124.exe)
+## MAKE
+### Make makes it easier to run programs
+[MAKE](gnu.org/software/make/) is installed on most operating systems
