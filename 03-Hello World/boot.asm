@@ -26,6 +26,6 @@ mov al, ' '
 
 jmp $ ; jump to current address = infinite loop
 
-; padding and magic number
+;magic number
 times 510 - ($-$$) db 0
 dw 0xaa55
